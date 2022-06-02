@@ -1,0 +1,11 @@
+AND HI
+ IS NULL
++
+' AND A.'
++
+ISNULL(@C1REC$TSIT_COLUMN_NAME_C, '')
++
+' IS NULL'
++
+AND
+IS NULL
